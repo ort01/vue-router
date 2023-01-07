@@ -1,0 +1,27 @@
+{
+    "jobs": [
+        {
+            "title": "UX Designer",
+            "id": 1,
+            "details": "designer"
+        },
+        {
+            "title": "Web Developer",
+            "id": 2,
+            "details": "developer"
+        },
+        {
+            "title": "Vue Developer",
+            "id": 3,
+            "details": "front-end developer"
+        }
+    ],
+    "blogs": [
+        {
+            "name": "blog 1"
+        },
+        {
+            "name": "blog 2"
+        }
+    ]
+}
